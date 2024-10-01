@@ -1,6 +1,6 @@
 # Word Solver
 
-Word Solver is a tool that helps users guess words efficiently by utilizing a word bank and entropy-based filtering. The solver is designed to guess daily words, random words, or custom words, with feedback categories including **Correct**, **Present**, and **Absent**.
+Word Solver is a tool that helps users guess words efficiently by utilizing a word bank and entropy-based filtering. The solver is designed to guess daily words, random words, or custom words, with feedback categories including **Correct**, **Present**, and **Absent**. If the word is common and meaningful, the solver can normally solve it within 6 attempts.
 
 ## Main Features
 
